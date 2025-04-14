@@ -61,7 +61,7 @@ Certifications:
 ##  Experience
 - Senior Software Test Engineer @ WillowTree LLC (Jul 2019 - Apr 2025)
 - Staff Member @ Tora-Con (Aug 2015 - May 2019)
-- Iteractive Develop Intern @ American Greetings (Jan 2018 - Aug 2018)
+- Interactive Develop Intern @ American Greetings (Jan 2018 - Aug 2018)
 
 ## About Me
 - Fun Fact: Alexia Bernardo anagrams to "an ideal rare box"
